@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'dach-mguSdk-iOS'
   s.version          = '2.2.0'
   s.summary          = 'VerveWireless (Matchinguu) SDK for iOS'
-  s.license          = { :type => 'Commercial'}
+  s.license          = { :type => 'Commercial' , :file => 'Licenses/Matchingg-LICENSE.txt'}
   s.description      = 'Matchinguu provides a round trip environment for location/context based services. In general a context based service manages the current user
 location in relation to any other available context like known POIs (Point of Interest), user behavior and the app specific context like profile
 information.'
